@@ -1,0 +1,20 @@
+/* Custom styles for Octofit Tracker */
+
+body {
+  background-color: #f8f9fa;
+}
+
+.App {
+  min-height: 100vh;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.table pre {
+  background-color: transparent;
+  border: none;
+  margin: 0;
+  font-size: 0.875rem;
+}
